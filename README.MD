@@ -1,6 +1,6 @@
 # Mp3Lyric DataMiner
 
-this project is a webscraper for mp3lyric.us website and can create a database with musics direct link and music's details.
+this project is a webscraper for [mp3lyric.us](https://mp3lyric.us/) website and can create a database with musics direct link and music's details.
 
 ## technologies 
 
