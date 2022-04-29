@@ -1,0 +1,15 @@
+{
+  "license": "MIT",
+  "dependencies": {
+    "node-color-log": "^9.0.0",
+    "pg": "^8.7.3",
+    "pg-hstore": "^2.3.4",
+    "puppeteer": "^13.7.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "sequelize": "^6.19.0"
+  },
+  "scripts": {
+    "start": "node ./app.js"
+  }
+}
